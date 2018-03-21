@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="crop_cir_radius">40dp</dimen>
+    <dimen name="margin_top">20dp</dimen>
+
+    <dimen name="card_top_margin">90dp</dimen>
+    <dimen name="card_min_height">300dp</dimen>
+    <dimen name="cropped_cir_width">180dp</dimen>
+    <dimen name="cropped_cir_height">80dp</dimen>
+    <dimen name="card_max_height">500dp</dimen>
+    <dimen name="card_left_margin">40dp</dimen>
+    <dimen name="card_right_margin">40dp</dimen>
+    <dimen name="vid_width">148dp</dimen>
+    <dimen name="vid_height">180dp</dimen>
+
+</resources>
